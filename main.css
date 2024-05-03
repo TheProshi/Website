@@ -45,6 +45,16 @@ nav ul li a{
     width: 31%;
 }
 
+.gam{
+    background: #333;
+    color: white;
+    border-radius: 10px;
+    padding: 10px .5%;
+    margin: .5%;
+    float: left;
+    width: 50%;
+}
+
 footer{
     clear: both;
 }
